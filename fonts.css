@@ -1,0 +1,35 @@
+       @font-face {
+            font-family: 'latobold';
+            src: url('http://www.morovacuo.com.br/fontes/lato-bold-webfont.woff2') format('woff2'),
+                url('http://www.morovacuo.com.br/fontes/lato-bold-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+
+        @font-face {
+            font-family: 'latohairline';
+            src: url('http://www.morovacuo.com.br/fontes/lato-hairline-webfont.woff2') format('woff2'),
+                url('http://www.morovacuo.com.br/fontes/lato-hairline-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+
+        @font-face {
+            font-family: 'latolight';
+            src: url('http://www.morovacuo.com.br/fontes/lato-light-webfont.woff2') format('woff2'),
+                url('http://www.morovacuo.com.br/fontes/lato-light-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+
+        @font-face {
+            font-family: 'latoregular';
+            src: url('http://www.morovacuo.com.br/fontes/lato-regular_0-webfont.woff2') format('woff2'),
+                url('http://www.morovacuo.com.br/fontes/lato-regular_0-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }    
+        body{font-family: 'latoregular';}
